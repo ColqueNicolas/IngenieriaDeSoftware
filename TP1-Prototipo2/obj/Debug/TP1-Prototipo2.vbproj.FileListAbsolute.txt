@@ -1,0 +1,4 @@
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\obj\Debug\TP1-Prototipo2.vbproj.AssemblyReference.cache
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\obj\Debug\TP1_Prototipo2.inicioSesion.resources
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\obj\Debug\TP1-Prototipo2.vbproj.GenerateResource.cache
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\obj\Debug\TP1-Prototipo2.vbproj.CoreCompileInputs.cache

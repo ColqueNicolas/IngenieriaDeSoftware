@@ -1,0 +1,12 @@
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\obj\Debug\TP1_Prototipo2.inicioSesion.resources
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\obj\Debug\TP1Prototipo2.vbproj.GenerateResource.cache
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\obj\Debug\TP1Prototipo2.vbproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\bin\Debug\TP1-Prototipo2.exe.config
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\bin\Debug\TP1-Prototipo2.exe
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\bin\Debug\TP1-Prototipo2.pdb
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\obj\Debug\TP1-Prototipo2.exe
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\obj\Debug\TP1-Prototipo2.pdb
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\obj\Debug\TP1_Prototipo2.GestionDeProductos.resources
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\obj\Debug\TP1_Prototipo2.PantallaPrincipal.resources
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\obj\Debug\TP1_Prototipo2.RealizarVenta.resources
+C:\Users\Nicolas\source\repos\TP1-Prototipo2\TP1-Prototipo2\obj\Debug\TP1Prototipo2.vbproj.AssemblyReference.cache
